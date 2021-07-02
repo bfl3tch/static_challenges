@@ -1,0 +1,69 @@
+body {
+  background-color: grey;
+  color: white;
+}
+
+a:link {
+  color: white;
+}
+
+#one {
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  position: relative;
+  left: 1500px;
+}
+
+aside {
+  position: relative;
+  left: 1500px;
+  top: -650px;
+}
+
+#foot {
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  position: relative;
+  width: 800px;
+  top: -650px;
+}
+
+h3 {
+  color: black;
+  text-align: left;
+  font-size: 24px;
+}
+
+#dam {
+  color: black;
+  text-align: left;
+  font-size: 24px;
+  position: relative;
+  top: -700px;
+}
+
+#lorum {
+  color: black;
+  text-align: left;
+  font-size: 18px;
+  position: relative;
+  top: -700px;
+  width: 1300px;
+}
+
+header {
+  font-size: 40px;
+  color: white;
+  background-color: red;
+  margin-left: 40px;
+}
+
+nav {
+  font-size: 30px;
+  color: white;
+  background-color: grey;
+  position: absolute;
+  right: 0;
+}
