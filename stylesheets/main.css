@@ -1,6 +1,9 @@
 body {
   background-color: grey;
   color: white;
+  padding: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 a:link {
@@ -12,7 +15,7 @@ a:link {
   color: white;
   font-size: 20px;
   position: relative;
-  left: 1500px;
+  left: 1300px;
 }
 
 aside {
@@ -28,6 +31,11 @@ aside {
   position: relative;
   width: 800px;
   top: -650px;
+}
+
+#mainbody {
+  background-color: white;
+
 }
 
 h3 {
@@ -64,6 +72,5 @@ nav {
   font-size: 30px;
   color: white;
   background-color: grey;
-  position: absolute;
-  right: 0;
+  text-align: right;
 }
